@@ -53,27 +53,25 @@ Here are their names:
     <li>Ricky Bryans</li<>
     <li>Vittoria Bugana</li>
 <ul>
-    
-## Documentation
 
+## Documentation 
 <ul>
-    <li>https://getbootstrap.com/docs/4.0/getting-started/introduction/</li<>
-    <li>https://developer.mozilla.org/fr/</li>
-    <li>https://www.w3schools.com/</li>
-<ul>
+    <li>https://getbootstrap.com/4.0/getting-started/introduction/</li>
+    <li>https://developer.mozilla.org/us/</li>
+    <li>https://www.w3schools.com</li>
+</ul>
 
-## Licence
+## License
 
 Licensed under MIT License
-
 Copyright (c) 2022 cedagbo
 
 ## Deployment
-
 <ul>
-    <li>Website: </li<>
+    <li>Website: </li>
     <li>Repository: https://github.com/cedagbo/Bootstrap-Portfolio</li>
-<ul>
+</ul>
 
 ## Author
 @cedagbo
+    
