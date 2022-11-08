@@ -18,6 +18,7 @@ Bootstrap - Portfolio is a project implemented to test our ability to rely on Bo
 </ul>
 
 ## Screenshot
+<img src="./images/screenshot" alt="website-screenshot">
 
 ## User Story
 As an employer I want to view a potential employee's deployed portfolio seeting out his skills. It would allow us to assess your ability to use Bootstrap to create a website.
