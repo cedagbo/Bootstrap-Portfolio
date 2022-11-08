@@ -30,3 +30,48 @@ Here are the critical requirements to develop a portfolio that statisfies a typi
     <li>Having an active and healthy commit history on GitHub</li>
     <li>Use of Bootstrap-cards to present your projects and add a brief description </li>
 </ul>
+
+## Technologies
+We used the following technologies:
+<ul>
+    <li>HTML 5</li>
+    <li>CSS 3</li>
+    <li>Bootstrap 4</li>
+</ul>
+
+## Installation
+The given project does not require any installation.
+
+## Usage
+Please refer to the deployment section.
+
+## Contributors
+We addressed some features of Bootstrap with our team members.
+Here are their names:
+<ul>
+    <li>Ricky Bryans</li<>
+    <li>Vittoria Bugana</li>
+<ul>
+    
+## Documentation
+<ul>
+    <li>https://getbootstrap.com/docs/4.0/getting-started/introduction/</li<>
+    <li>https://developer.mozilla.org/fr/</li>
+    <li>https://www.w3schools.com/</li>
+<ul>
+
+## Licence
+
+Licensed under MIT License
+
+Copyright (c) 2022 cedagbo
+
+## Deployment
+
+<ul>
+    <li>Website: </li<>
+    <li>Repository: https://github.com/cedagbo/Bootstrap-Portfolio</li>
+<ul>
+
+## Author
+@cedagbo
