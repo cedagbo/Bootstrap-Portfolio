@@ -68,7 +68,7 @@ Copyright (c) 2022 cedagbo
 
 ## Deployment
 <ul>
-    <li>Website: https://cedagbo.github.io/ </li>
+    <li>Website: https://cedagbo.github.io/Bootstraportfolio/</li>
     <li>Repository: https://github.com/cedagbo/Bootstrap-Portfolio</li>
 </ul>
 
